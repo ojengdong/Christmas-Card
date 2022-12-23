@@ -1,0 +1,32 @@
+body{
+  background-color: green;
+  color: rgb(235, 30, 235);
+}
+
+.card {
+  background-image: url('./images/크리스마스.jpg');
+  border: 3px solid red;
+  border-radius: 10px;
+  margin: 0 auto;
+  width: 750px;
+  height: 780px;
+  text-align: center;
+}
+
+.card img{
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+}
+.text{
+ text-align: center;
+ font-weight: bold;
+ padding: 50px 0px;
+}
+
+.snow img{
+  width: 200px;
+  height: 200px;
+  margin-left: 100%;
+  padding-top: 20%;
+}

@@ -1,0 +1,13 @@
+body{
+  background: url('./images/겨울배경.jpg');
+}
+
+.chi{
+text-align: center;
+}
+
+.chi img{
+  margin-top: 200px;
+  width: 500px;
+  border-radius: 20px;
+}
